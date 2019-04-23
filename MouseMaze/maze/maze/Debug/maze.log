@@ -1,0 +1,17 @@
+﻿빌드 시작: 2019-04-21 오후 10:50:22
+     1>2 노드의 "C:\Users\user\Desktop\20131900 김태훈 (2)\maze\maze\maze.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\maze.res" maze.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\20131900 김태훈 (2)\maze\Debug\maze.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\user\Desktop\20131900 김태훈 (2)\maze\Debug\maze.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\20131900 김태훈 (2)\maze\Debug\maze.lib" /MACHINE:X86 Debug\maze.res
+         Debug\MainFrm.obj
+         Debug\maze.obj
+         Debug\mazeDoc.obj
+         Debug\mazeView.obj
+         Debug\stdafx.obj
+         maze.vcxproj -> C:\Users\user\Desktop\20131900 김태훈 (2)\maze\Debug\maze.exe
+     1>"C:\Users\user\Desktop\20131900 김태훈 (2)\maze\maze\maze.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.38
